@@ -1,5 +1,5 @@
 import Header from "./components/header";
 
-export {
+module.exports = {
     Header
 }
