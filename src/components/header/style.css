@@ -1,0 +1,22 @@
+.flex-row{
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.align-self{
+    align-self: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.m-10{
+    margin: 10px;
+}
+
